@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3665dd35-17bd-4278-9804-ac1a107ccb45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/AnOtherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/Args.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/CmToInch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/ExampleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/ExampleClassIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/NotCorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/Overview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/Scope_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/SimpleBoxingTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassDefinition_6/src/com/company/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/Java Notes - 2021.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw 2.2/StringThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw 2.2/hw2_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw5.1/5_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw5.1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw5.1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw5.1/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/hw5.1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/out/production/2021/com/company/classDefinition/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/Literal_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/OpEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/Return_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/Sq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringAndInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringAndInteger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/StringUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/String_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/UseOfThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/WillNotCompile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/X_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/X_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/X_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/X_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingBasics_4/src/com/company/javaProgrammingBasics/X_s1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PatternQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PatternQuestions_sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Scanner4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Scanner7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/willItMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/Java Notes - 2021.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw 2.2/StringThing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw 2.2/hw2_2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw5.1/5_1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw5.1/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw5.1/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw5.1/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021/hw5.1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZAda4NjV8gGVRDUOKuFaUXpByG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3665dd35-17bd-4278-9804-ac1a107ccb45" name="Changes" comment="" />
+      <created>1701868882201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701868882201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
