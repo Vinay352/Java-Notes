@@ -16,7 +16,7 @@ class UseBandC {
                 aArray[i] = new C1(); 	// ***
 
         for ( int i = 0; i < aArray.length; i ++ )	{
-            sum += aArray[i].isAbstract();  // *** // funtion present in child classes but not in parent classes
+//            sum += aArray[i].isAbstract();  // *** // funtion present in child classes but not in parent classes
             sum += ( (A1)aArray[i] ).isAbstract();  // ***
         }
 
